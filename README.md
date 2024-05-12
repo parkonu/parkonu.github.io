@@ -13,10 +13,10 @@ C , Python , Javascript
 SKKU software 2021~
 
 ### course
-Data Structures
-Problem Solving
-opensource software
-System programming
+* Data Structures
+* Problem Solving
+* Opensource software
+* System programming
 
 ## Achievements  and  Certifications
 
