@@ -1,34 +1,34 @@
 # parkonu.github.io
 
-##Introduction
+## Introduction
 
 Hi. I'm ChangHwan Park a sophomore at Sungkyunkwan University.
 
-##Skill
+## Skill
 
 C , Python , Javascript
 
-##Education
+## Education
 
 SKKU software 2021~
 
-###course
+### course
 Data Structures
 Problem Solving
 opensource software
 System programming
 
-##Achievements  and  Certifications
+## Achievements  and  Certifications
 
 Driver's License class 1
 
-##Contact
+## Contact
 
-###Email
+### Email
 
 pcwmo99@g.skku.edu
 
-###GitHub
+### GitHub
 
 parkonu
 
